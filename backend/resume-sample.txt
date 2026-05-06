@@ -1,0 +1,1 @@
+Resume\nProfessional Summary\nSkills: Python, SQL, React, AWS\nWork Experience: Improved API performance by 35% over 2 years\nEducation: B.Tech\nProjects: ATS parser\nContact: test@example.com
