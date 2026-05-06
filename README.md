@@ -1,4 +1,4 @@
-## 📄 Document-to-Action Engine
+## 📄 DocuSense: Document-to-Action Engine
 
 Upload any document — resume, contract, or report — 
 and get structured insights with clear next steps, 
